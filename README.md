@@ -1,4 +1,4 @@
-# SRFM_Miner
+# LUIM
 This repo hosts the code for paper **"LUIM: Low Utility Itemset Mining", Xiaojie Zhang, Guoting Chen*, and Linqi Song*, and Wensheng Gan 2023**.
 
 ## Requirements
