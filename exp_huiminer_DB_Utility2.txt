@@ -1,0 +1,6 @@
+maxUtil:
+
+runTime: 0.008
+memory: 5.12030029296875
+candidates: 83
+patterns: 9

@@ -1,0 +1,6 @@
+maxUtil:
+
+runTime: 0.012
+memory: 5.120399475097656
+candidates: 0
+patterns: 0
